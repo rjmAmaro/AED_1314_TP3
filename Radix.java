@@ -6,7 +6,7 @@ import java.util.Scanner;
  * 
  * TP3 - Ordering Algorithms
  * 
- * Task B - Quick Sort with Improvements
+ * Task C - Radix Sort
  * 
  * Ricardo Amaro
  */
