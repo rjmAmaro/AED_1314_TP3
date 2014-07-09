@@ -27,7 +27,7 @@ id,id_vehicle,date,latitude,longitude
 1245618,320,2009-12-09 00:00:53,38.7401,-9.22841
 1245617,720,2009-12-09 00:00:55,38.7206,-9.12267
 
-**O Problema**
+	**O Problema**
 A empresa pretende identificar as zonas onde há maior passagem de veículos. Uma zona é definida por todas as latitudes/longitudes com o mesmo par de valores latitude/longitude
 truncados ao nível da centésima de grau.
 Neste sentido deve desenvolver um programa que faça a listagem das zonas seguida do número de pontos encontrados nessa zona. A listagem deve compreender as zonas organizadas por ordem crescente, primeiro de latitude e depois de longitude.
