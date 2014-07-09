@@ -4,13 +4,16 @@ AED_1314_TP3
 ##### FCTUC - DEI
 
 ### Trabalho Prático 3
+
 ###### Objectivo
 - Estudo de algoritmos de ordenamento
+
 
 ###### Tarefas
 - Tarefa A - Ordenamento por inserção
 - Tarefa B - Ordenamento por chave
 - Tarefa C - Ordenamento por base
+
 
 ###### Enunciado
 A empresa NovasRotas Lda dedica-se ao desenvolvimento de software para gestão de frotas de veículos. O software utilizado envolve a existência de equipamento de localização a bordo das viaturas, das quais são recebidos registos (pontos recolhidos pelo receptor de GPS) com os seguintes campos:
@@ -45,6 +48,7 @@ Nota: as colunas com identificador do registo; identificador da viatura e “tim
 Nas tarefas de ordenamento:
 - Para as medições de tempo deve adoptar soluções que minimizem a contaminação do tempo de execução pelo tempo de leitura e escrita dos dados, medindo dentro do possível só os tempos de ordenamento. Se em alguma situação tal não for possível deve ser identificada.
 - A formação da chave de ordenamento dos registos de entrada deve ter em conta o método de ordenamento utilizado.
+
 
 ###### Testes
 **Input**
