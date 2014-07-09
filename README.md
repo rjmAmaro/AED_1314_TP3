@@ -4,5 +4,10 @@ AED_1314_TP3
 ###### FCTUC - DEI
 
 #### Trabalho Prático 3
-**Estudo de algoritmos de ordenamento**
+**Objectivo**
+- Estudo de algoritmos de ordenamento
 
+**Tarefas**
+- Tarefa A - Ordenamento por inserção
+- Tarefa B - Ordenamento por chave
+- Tarefa C - Ordenamento por base
