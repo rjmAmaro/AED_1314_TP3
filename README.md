@@ -12,7 +12,7 @@ AED_1314_TP3
 ###### Tarefas
 - Tarefa A - Ordenamento por inserção
 - Tarefa B - Ordenamento por chave - Quick Sort com melhoramentos
-- Tarefa C - Ordenamento por base - Radix Sort
+- Tarefa C - Ordenamento por base - Radix Sort LSD
 
 
 ###### Enunciado
